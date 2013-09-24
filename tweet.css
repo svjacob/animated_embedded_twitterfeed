@@ -1,0 +1,23 @@
+/* = twitter stream section
+----------------------------------------------- */	
+.article-col #tweetzone .article-listing .tweet{overflow: visible; font-size: 12px; line-height:14px; margin-left: 65px;}
+
+.article-col #tweetzone #sorry{padding: 5px 0 5px 0; text-align: center;}
+
+.article-col #no-margin{margin:0px;}
+
+.article-col .article-listing img#tweet-image {margin: 0px 5px 0px 0px; float:left;}
+
+.article-col #tweetzone #downimage{border: none; margin: 70px 0 0 60px;}
+
+.main-content-col .small{padding-left: 0px; margin-bottom:0px;}
+
+.article-col #tweetzone{position: relative; top: 0; left: 0;}
+
+.article-col #tweetzone .article-listing{margin: 0; padding: 15px 0 15px 0; width: 280px;}
+
+.article-col #tweetzone .article-listing:last-child {border-bottom: none;}
+
+.article-col #tweetzone .article-listing .tweet span{color: #999999;}
+
+#container{position: relative; overflow: auto; height: 254px;}
